@@ -1,0 +1,19 @@
+{
+  "name": "useform",
+  "version": "0.0.1",
+  "description": "use hooks to write form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hooks",
+    "form"
+  ],
+  "author": "corol",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8.5",
+    "react": "^16.8.3"
+  }
+}
